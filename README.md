@@ -27,8 +27,8 @@ python calculatorGUI.py
 ```
 The GUI window will open, allowing you to perform calculations using the buttons.
 
-###stack.py
+### stack.py
 The stack.py module implements a stack data structure, which is used internally by the calculator modules for evaluating expressions and handling calculations.
 
-###tree.py
+### tree.py
 The tree.py module implements a binary expression tree data structure. It is used by the calculator modules for parsing and evaluating complex mathematical expressions.
